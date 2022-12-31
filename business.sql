@@ -42,12 +42,13 @@ CREATE TABLE `business` (
 -- Dumping data for table `business`
 --
 
+
 INSERT INTO `business` (`name`, `email`, `phone`, `business_name`, `logo`, `business_address`, `website`, `cordinates`) VALUES
-('C:\\xampp\\htdocs\\rohan\\public', 'sanket@test.com', '12345678', 'dhanda', '1672428084.jpg', 'admfhv', 'xxx.com', 'test'),
-('ROHAN RATHOD', 'sanket@test.com', '12345678', 'dhanda', 'taisign(1).jpg', 'admfhv', 'xxx.com', 'test'),
-('sanket patil', 'sanket@test.com', '1234656', 'dhanda', 'test', 'cozy homes', 'xxx.com', 'test'),
-('taisign(1)', 'sanket@test.com', '12345678', 'dhanda', 'taisign(1).jpg', 'admfhv', 'xxx.com', 'test'),
-('tejas', 'tejas@gmail.com', '12345678', 'dhanda', '1672429462.jpg', 'admfhv', 'xxx.com', '18.5764256 73.9947449');
+('C:\\xampp\\htdocs\\rohan\\public', 'rohanrathod@test.com', '12345678', 'Telecom', '1672428084.jpg', 'admfhv', 'royal.com', 'test'),
+('ROHAN RATHOD', 'rohanrathod@test.com', '12345678', 'Telecom', 'taisign(1).jpg', 'admfhv', 'ICICI.com', 'test'),
+('rohan', 'rohan@test.com', '1234656', 'Telecom', 'test', 'cozy homes', 'amazon.com', 'test'),
+('taisign(1)', 'rohansign@test.com', '12345678', 'Telecom', 'taisign(1).jpg', 'admfhv', 'paypal.com', 'test'),
+('rohan', 'rohan@gmail.com', '12345678', 'Telecom', '1672429462.jpg', 'admfhv', 'flipcart.com', '18.5764256 73.9947449');
 
 --
 -- Indexes for dumped tables
